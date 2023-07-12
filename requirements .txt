@@ -4,4 +4,4 @@ matplotlib==3.2.2
 seaborn==0.11.2
 sklearn==1.0.2
 lightgbm==2.2.3
-lazypredict==0.2.12
+feature_engine==1.6.1
