@@ -1,4 +1,4 @@
-O projeto se trata de um problema de regressão, onde o objetivo é prever se a pessoa o preço de venda do carro
+O projeto se trata de um problema de regressão, onde o objetivo é prever o preço de venda do carro
 
 No arquivo de EDA foi feito uma analíse exploratória 
 
